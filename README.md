@@ -1,41 +1,46 @@
-<!-- readme-seo: bannysukumar -->
+# Nexus Forge Web3 - Forging the Future of Web & Blockchain
 
-# Web3 Agency Website
+Nexus Forge Web3 - Forging the Future of Web & Blockchain is the site whose HTML title is "Nexus Forge Web3 - Forging the Future of Web & Blockchain".
 
-**Web3 Agency Website** is an open-source Web3 and blockchain application. The code is written mainly in HTML and maintained by [Banny Sukumar](https://github.com/Bannysukumar), a blockchain and full-stack developer.
+[![License](https://img.shields.io/github/license/Bannysukumar/Web3-Agency-Website)](https://github.com/Bannysukumar/Web3-Agency-Website/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/Bannysukumar/Web3-Agency-Website)](https://github.com/Bannysukumar/Web3-Agency-Website/stargazers) [![Last commit](https://img.shields.io/github/last-commit/Bannysukumar/Web3-Agency-Website)](https://github.com/Bannysukumar/Web3-Agency-Website/commits/main)
 
-This repository is public so developers can read the source, reuse it under the MIT License, and send improvements.
+## Overview
 
-## About this project
+Nexus Forge Web3 - Forging the Future of Web & Blockchain is the site whose HTML title is "Nexus Forge Web3 - Forging the Future of Web & Blockchain".
 
-Web3 Agency Website lives at [`github.com/Bannysukumar/Web3-Agency-Website`](https://github.com/Bannysukumar/Web3-Agency-Website). Use it as a starting point for a Web3 and blockchain application, or study how the HTML parts fit together.
 
-## Tech stack
+## Project Structure
 
-- Primary language: **HTML**
-- License: **MIT**
-- Maintainer: [Banny Sukumar](https://github.com/Bannysukumar)
+```text
+Web3-Agency-Website/
+├── about.html
+├── contact.html
+├── index.html
+├── portfolio.html
+├── script.js
+├── services.html
+├── styles.css
+```
 
-## Getting started
+## Getting Started
 
 ```bash
 git clone https://github.com/Bannysukumar/Web3-Agency-Website.git
 cd Web3-Agency-Website
 ```
 
-Open the project in your editor. Install dependencies only if this repo already includes a manifest such as `package.json`, `requirements.txt`, or a `.csproj` file.
-
 ## Contributing
 
-Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before you open a pull request.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Banny Sukumar.
+Licensed under MIT. See [LICENSE](LICENSE).
 
 ## Author
+
+[Banny Sukumar](https://github.com/Bannysukumar)
 
 - GitHub: [@Bannysukumar](https://github.com/Bannysukumar)
 - Portfolio: [adepu-sukumar.vercel.app](https://adepu-sukumar.vercel.app/)
 - LinkedIn: [Adepu Sukumar](https://www.linkedin.com/in/adepu-sukumar-59b423351)
-- ORCID: [0009-0007-9766-6579](https://orcid.org/0009-0007-9766-6579)
